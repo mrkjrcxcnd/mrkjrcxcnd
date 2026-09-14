@@ -6,6 +6,7 @@ import html
 import json
 import os
 from pathlib import Path
+import urllib.error
 import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -28,13 +29,29 @@ def graphql(query, variables):
     return result['data']
 
 
+def fetch_public_gists(username):
+    token = os.environ.get('GH_TOKEN') or os.environ.get('GITHUB_TOKEN')
+    request = urllib.request.Request(
+        f'https://api.github.com/users/{username}',
+        headers={
+            'Accept': 'application/vnd.github+json',
+            'User-Agent': 'repository-profile-renderer',
+            **({'Authorization': f'******'} if token else {}),
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=60) as response:
+            return json.load(response).get('public_gists', 0)
+    except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, json.JSONDecodeError):
+        return 0
+
+
 def fetch(username):
     fields = '''repositories(first: 100, after: $cursor, privacy: PUBLIC,
         ownerAffiliations: OWNER, orderBy: {field: NAME, direction: ASC}) {
         totalCount pageInfo {hasNextPage endCursor} nodes {stargazerCount forkCount}}'''
     query = '''query($login: String!, $cursor: String) {user(login: $login) {
         login name bio websiteUrl location followers {totalCount} following {totalCount}
-        gists(privacy: PUBLIC) {totalCount}
         contributionsCollection {contributionCalendar {totalContributions weeks {
             contributionDays {date contributionCount color weekday}}}}
     ''' + fields + '}}'
@@ -49,6 +66,7 @@ def fetch(username):
         page = page['user']['repositories']
         repos['nodes'].extend(page['nodes'])
         repos['pageInfo'] = page['pageInfo']
+    user['gists'] = {'totalCount': fetch_public_gists(username)}
     return user
 
 
