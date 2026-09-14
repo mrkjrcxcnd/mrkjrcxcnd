@@ -1,0 +1,1398 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="958" height="1236" viewBox="0 0 958 1236" role="img" aria-labelledby="title desc">
+<title id="title">MJ Exconde — @mrkjrcxcnd</title>
+<desc id="desc">ASCII portrait, biography, actual GitHub contributions, account metrics, and technology stack.</desc>
+<style>text{font-family:Menlo,Consolas,"DejaVu Sans Mono",monospace}.ticker{animation:scroll 95s linear infinite}@keyframes scroll{to{transform:translateX(-2426.4px)}}@media(prefers-reduced-motion:reduce){.ticker{animation:none}}</style>
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect x="58" y="48" width="344" height="374" rx="14" fill="#0d1117" stroke="#262d35"/>
+<path d="M58 76H402" stroke="#262d35"/>
+<circle cx="77" cy="62" r="4.8" fill="#ff5f57"/>
+<circle cx="92" cy="62" r="4.8" fill="#ffbd2e"/>
+<circle cx="107" cy="62" r="4.8" fill="#28c840"/>
+<text x="250.0" y="66" font-size="10" fill="#8b949e" font-weight="normal" text-anchor="middle">mrkjrcxcnd@github: ~$ ./portrait.sh</text>
+<text x="76" y="85.0" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">010010010010010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101001010010100100100100100</text>
+<text x="76" y="88.95" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">001001001010100100100100100100101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010100100101001010010010101010010</text>
+<text x="76" y="92.9" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101010101001010101010010101010101010101001010101010101010101010101010101010000000000000101010101010101010100100101001001010101010101001010101001001010</text>
+<text x="76" y="96.85" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">010100101010101010010101010101010101010110101010101010101010101010101000000000000000000000000010101010100101011010101010101010101010101010100101010010</text>
+<text x="76" y="100.8" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">010010101010010010101010101010101010101010101010101010101010101010100100                      0 001010101010100101010101010101010010101001010100101010</text>
+<text x="76" y="104.75" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">010101010101010101010101010101010101010101010101010101010101010101000                0            0001010101011010101010101010101010100101010101010101</text>
+<text x="76" y="108.7" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10101010010101010101010101010101010101010101010101010000000000000000               0      0  0        001010100101010101010101010101011010101010100100</text>
+<text x="76" y="112.65" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">0101010101010101010101010101010110101101101010100000 0 0  0  0  0                       0       0       0000101010101010101010101010100101010101010101</text>
+<text x="76" y="116.6" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">0101001010101010101010101010101010110101010101000                                                          0010101010101101010101010101010101010101010</text>
+<text x="76" y="120.55000000000001" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1010101010101010101101101101101010101010101000          0  0                    0            0    0  0      000010101010101101010101010101010100101001</text>
+<text x="76" y="124.5" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">01010101010101010101010101010101101010101000                                                    0              000101101010101101101011010101010101010</text>
+<text x="76" y="128.45" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10101010101010110101010101010110101011010             0                              0    0            0  0     00101010101010101010101010101010101010</text>
+<text x="76" y="132.4" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">010101010101101011011011011010101011010                  0   0  0   0              0                 0       0    001010110101010110101010101010101010</text>
+<text x="76" y="136.35" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10101010110101010101010110101101010100                                                 0     0  0  0            0 000101010110110101101101010101010101</text>
+<text x="76" y="140.3" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">0101011010101101101011010101010110100                0                         0         0                          0101010101011010110101101101101010</text>
+<text x="76" y="144.25" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101101010110101011010110110110101100                      0                0               0    0        0           001010101101011010110101010101101</text>
+<text x="76" y="148.2" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10101011010110110111101101101101010                     0     0    0  0 0 0  0                                        00101101010101011010101101010101</text>
+<text x="76" y="152.15" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">0101010110101101010010101011011010                                  0 0 0 0 0 0   0                   0                0010101101110101011010101101010</text>
+<text x="76" y="156.10000000000002" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011101011010110111111011101010100                   0           0 00000000000 00                  0                   0010110110101110101110110110110</text>
+<text x="76" y="160.05" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">110011010111101101010110101110110                             0  00 0 0000000000 00 0    0     0                        101010101101011110101011010101</text>
+<text x="76" y="164.0" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">011101101010110110110101110101100                               0 000000000000000000 0       0                          011011010111101010111010101101</text>
+<text x="76" y="167.95" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101010111101011011011110101110110                           0  0 0 0000000000000000000 0                                010101111010110111010110110110</text>
+<text x="76" y="171.9" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011010101111011011010111101010100                              000000000000000100000000 0                             0010110101101011010110101101011</text>
+<text x="76" y="175.85000000000002" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11011110101011011101110101101110110                           0 0 00000000010100101000000 0 0     0                    0011011010111101101011110110101</text>
+<text x="76" y="179.8" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">01101011111101110111011110111011010               0      0  0  0 00000000000010000010100000   0           0    0       0010101111010110111101011011101</text>
+<text x="76" y="183.75" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101101101010110110111010110101101100            0     0      0 0000000000010001010100000000000  0    0  0 0            0101110101111011010110101101011</text>
+<text x="76" y="187.7" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">110110110111011011011111011110110110          0             0 0 0000000001001000000101010000 0 0  00 00 000000      0 00110101110101101111011110110110</text>
+<text x="76" y="191.65" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">0110110110111011111010101101011110110       0    0  0 0 0  0  000 00000100010010101000101000000 0 0000000000000   0    1011011011011011010110101011011</text>
+<text x="76" y="195.60000000000002" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011011011010110101111111011110101010          0  0 0     0 00000000001001000100010010101010100000  0000000000000     01101101101110111111011111101101</text>
+<text x="76" y="199.55" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11011101111111111101010111101011111010    0  0  0 0  0 0  0 0000000010000001000100100100101000000000  00000000000     01010110111011101011101010110110</text>
+<text x="76" y="203.5" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10110111010101010111111010111110101100        0 0  0         0 000000010100010001000000000 0            0000000000   010111011101110111101111101111011</text>
+<text x="76" y="207.45" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111011011111111110110111111010111101110    0 0   0                0 00 000100010000000 0    000000000000 0000000 0   001101101110111010110101011010110</text>
+<text x="76" y="211.4" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011111010101010111011010101110101101100      0 0   0 00000000000 0 0 00000000000000000 0000 00000000000000000000   0010110110111011111011111110111101</text>
+<text x="76" y="215.35" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1101011111111111101111111111011111110100    0 0  000 00 000 000 00 0000000000101010000000  0      00 0000000000000 0 000011011011101011110101011101011</text>
+<text x="76" y="219.3" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011101010101010111010101011110101010 0     0 0 0 0000 0       0  0 0 0 0 000010100000 0 00      0   000000000000  00000000111101111101011111101111110</text>
+<text x="76" y="223.25" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111011111111111110111111111011111100 0000    0 000 0 00   00 0   000  0 0 0000010000000  0  0 0 000000000000000000000000000101110101111110101110101011</text>
+<text x="76" y="227.20000000000002" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10111011011011011111011011011010100000 0 00  0 0 0 00 0 00 0 00000000000 0 000101000000000000000000000000101000000 00100000011011110101011111011111101</text>
+<text x="76" y="231.15" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1110111011110111010111111111111111000 0 0 0  0 0 00000000 0000000000000 0 0000000101010000000000000101010010000000001000000101110111111111011110101111</text>
+<text x="76" y="235.1" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10111011101111011111101010101010100  0 000 0  0 00 000000000000000000000 0 000101000001010000000101000010100100000000001000011011101101101110111110101</text>
+<text x="76" y="239.05" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1101111011101111011011111111111110000 00 0  0 0 0 00 00000000000000000 00 0000000010100100101010000010100010000000 00000000111110111011111011101011111</text>
+<text x="76" y="243.0" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111010111011101111111011011010101100 0 0  0   0 00 00000000000000000000 0 0 0001010000100100000101010001010001000000 000001101011101110101110111110101</text>
+<text x="76" y="246.95000000000002" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011111011101110110111111111111111100 0     0  0 00 0000000000100100000 0 000001000000000001010010101010100100000 000000010111110111111111011101011111</text>
+<text x="76" y="250.9" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11101011111110111111011010101101010100 00    0 0  000 000000100100100000 0 000011000101010000000100101010100000000000000011010111101010111110111110101</text>
+<text x="76" y="254.85" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10111111010111110111111111111111111110   0 0  0 0 0 00000010010010000 00000 00000000000000000000001001010000000000000010111111010111111101011101111111</text>
+<text x="76" y="258.8" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111011011111011111011010110110101101010     0  0 0 00000000000100000000    00000000 0 000010000000000010010000000 010001010101111110110111110111010101</text>
+<text x="76" y="262.75" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10111011101111011111111111111111101111000 0  0  0 000000001010000000  0 0 0 0 000000000010010000000010000000000000000011101111011011111101111110111111</text>
+<text x="76" y="266.70000000000005" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111011101110111101101101101101101111011100 0  0 00 0 0000000000000000000000000000010101001000000000000000100000000011101111011111110110111010111110110</text>
+<text x="76" y="270.65" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">10111111111110111111111111111111110111011110100 0 000000000000000000000 000000000000001010010000000000000000000000101110101110101111111111111101011111</text>
+<text x="76" y="274.6" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11101011010111110110110111011011011111110101100 00 0 00000000000000 0 00000000000000100000000000000000000000000001111011111111111011011010110111111011</text>
+<text x="76" y="278.55" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101111111111101111111111011111111110101111111100 00 0000001000000 00000 0  0 0000000 0 0 00 000  00000010000000001101111011011011111111111111110110110</text>
+<text x="76" y="282.5" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1111011011011111101101111111110111111110110101000 00000000000000 0   0 0000000000100010000    00000000000000000011111011111111111011010110110111111111</text>
+<text x="76" y="286.45000000000005" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101111011111011011111110111011111011101111111110 00 0000000010000     00000011011111100000000000000000000000000110101111011011011111111111111101101011</text>
+<text x="76" y="290.4" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11101111101111111110111111111111111011110110110100 00 0000000000000 0 0 00000000000000000 000100000000000000001011111101111111111101111011011111111110</text>
+<text x="76" y="294.35" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101110110111101110111101110111011111111111111011100 0000000000000 00 0 0 0 000000000000000000000000000000000011111011111110111101111101111110110101101</text>
+<text x="76" y="298.3" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1111111111101111111111111111111110111101101111101100 00 0000000000000 00 00 000000 00000000100100000000000 0110101110110111110111110111101111111111111</text>
+<text x="76" y="302.25" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1101010110111101110111110111101111110111111010111010 0 0000000000 0 000000000 0 000000000100000000000000 000111111111111111011111011111111011011010110</text>
+<text x="76" y="306.20000000000005" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1111111111111111011110111110111111011111011111111100  0 00 00000000000 0000000000000000100001000000000 0 001011011011011101111111111101101111111111111</text>
+<text x="76" y="310.15" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011011011011011111111111111111101111111111011010110 0 0 000 000 0 0 0000000000000101010010000000000 0 00 01111111111111111111011110111111110101101011</text>
+<text x="76" y="314.1" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1111111111111111111011101111110111111011101111111100 0 0   00 000000000000000001000010000000000000 0 00 0000101011011101111011111011111111011111111111</text>
+<text x="76" y="318.05" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11011011011011101111111111011111111111101111101101   0  000 0 0  0 0 0 0000000000101001000000000 00 00000 01111111110111101111101111110101111110111011</text>
+<text x="76" y="322.0" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1111111111111111110110111111111110110111111011111     00  0 00 00 0 0 00 000000100000000000000 00 000 0000  010110111111111110111111011111110111101110</text>
+<text x="76" y="325.95000000000005" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1010110110111011011111110111011011111111101111010       00 00 00 00 00 00 000000000000000000 000 0000000 00   1111111011011011111111111111011110111111</text>
+<text x="76" y="329.9" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111111111110111111111111111111111111101111110110         0 0 00 0 00 00 00 0 0 0 0 0 0 0 0 000 00000000000    0011011111111111111011110111111111111011</text>
+<text x="76" y="333.85" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1011011011111110111011011101110111011110110110              0 0000 00 00 00000000 000 00000000000000000000     011110110111111011110111101110110111110</text>
+<text x="76" y="337.8" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111111111011101111111111111111111111111111110                    0 0 0 00 0  0 0 00 0000 000000000000 0000    0  0111111101101111111111111111111101011</text>
+<text x="76" y="341.75" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">1101010111101111101101101101101101101011010                   0   0 000 00 00000000000000000000000000000 0         01011111111110111011110110110111111</text>
+<text x="76" y="345.7" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11111111011111101111111111111111111111110                  0    0     0 0000 000000000000000000000000000        0   0011010110111101111011111111111011</text>
+<text x="76" y="349.65000000000003" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101101111111011111111011011011101101100               0          0 0 0 0 0 000000000000000000000000000 0 0    0        0011111111111111111101101101111</text>
+<text x="76" y="353.6" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111111011011111110111111111110111100                          0 0  0     0 0000000000000000000000000000                   0001101101101101111111111101</text>
+<text x="76" y="357.55" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101011111110110111101101110111110                                0 000 0 0 0 00000000000000000000000 0 0         0            011111111111011011010111</text>
+<text x="76" y="361.5" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11111010111111110111111111100                               0     0  00 0 0 0 00000001001001000000000         0                   01010111111111111110</text>
+<text x="76" y="365.45" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101111111011011111110110                                  0        00 00 0 000 00000000000000010000 0 0     0       0  0             00101101101101101</text>
+<text x="76" y="369.40000000000003" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">11101011110111011000                                 0               0 0000 0 00000000000001000000 0             0          0    0        011110111111</text>
+<text x="76" y="373.35" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">101111101111010                                                        0 0 0000 0000000001000000 0 0                                          01110101</text>
+<text x="76" y="377.3" font-size="3.42" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="308" lengthAdjust="spacingAndGlyphs">111011111000                   0                                         0000000000000000000000 0 0  0                         0                 00111</text>
+<path d="M58 382H402" stroke="#262d35"/>
+<text x="76" y="400" font-size="12" fill="#8b949e" font-weight="normal" >mrkjrcxcnd@github:~$ whoami</text>
+<text x="280" y="400" font-size="12" fill="#009100" font-weight="normal" >MJ Exconde</text>
+<rect x="448" y="48" width="458" height="374" rx="14" fill="#0d1117" stroke="#262d35"/>
+<path d="M448 76H906" stroke="#262d35"/>
+<circle cx="467" cy="62" r="4.8" fill="#ff5f57"/>
+<circle cx="482" cy="62" r="4.8" fill="#ffbd2e"/>
+<circle cx="497" cy="62" r="4.8" fill="#28c840"/>
+<text x="697.0" y="66" font-size="11" fill="#8b949e" font-weight="normal" text-anchor="middle">mrkjrcxcnd@github: ~$ neofetch</text>
+<text x="466" y="103" font-size="14" fill="#39d353" font-weight="bold" >mrkjrcxcnd@github</text>
+<text x="466" y="126" font-size="12" fill="#009100" font-weight="bold" >Now</text>
+<text x="552" y="126" font-size="12" fill="#c9d1d9" font-weight="normal" >Computer Engineer | Developer</text>
+<text x="466" y="149" font-size="12" fill="#009100" font-weight="bold" >Also</text>
+<text x="552" y="149" font-size="12" fill="#c9d1d9" font-weight="normal" >Open to Work</text>
+<text x="466" y="172" font-size="12" fill="#009100" font-weight="bold" >Loc</text>
+<text x="552" y="172" font-size="12" fill="#c9d1d9" font-weight="normal" >Philippines</text>
+<text x="466" y="195" font-size="12" fill="#009100" font-weight="bold" >Site</text>
+<text x="552" y="195" font-size="12" fill="#c9d1d9" font-weight="normal" >www.mrkjrcxcnd.com</text>
+<text x="466" y="228" font-size="12" fill="#58a6ff" font-weight="bold" >— Stack</text>
+<text x="466" y="250" font-size="12" fill="#009100" font-weight="bold" >Langs</text>
+<text x="552" y="250" font-size="12" fill="#c9d1d9" font-weight="normal" >TypeScript, C++, Kotlin</text>
+<text x="466" y="273" font-size="12" fill="#009100" font-weight="bold" >Frontend</text>
+<text x="552" y="273" font-size="12" fill="#c9d1d9" font-weight="normal" >React, Next.js, CSS, HTML</text>
+<text x="466" y="296" font-size="12" fill="#009100" font-weight="bold" >Backend</text>
+<text x="552" y="296" font-size="12" fill="#c9d1d9" font-weight="normal" >Node.js, Postgres, Express</text>
+<text x="466" y="328" font-size="12" fill="#58a6ff" font-weight="bold" >— Highlights</text>
+<path d="M560 324H888" stroke="#262d35"/>
+<text x="466" y="351" font-size="15" fill="#26a641" font-weight="normal" >•</text>
+<text x="480" y="351" font-size="12" fill="#c9d1d9" font-weight="normal" >10 public repos, 3 followers</text>
+<text x="466" y="374" font-size="15" fill="#26a641" font-weight="normal" >•</text>
+<text x="480" y="374" font-size="12" fill="#c9d1d9" font-weight="normal" >Active developer with 4 total stars</text>
+<rect x="58" y="442" width="844" height="286" rx="14" fill="#0d1117" stroke="#262d35"/>
+<path d="M58 470H902" stroke="#262d35"/>
+<circle cx="77" cy="456" r="4.8" fill="#ff5f57"/>
+<circle cx="92" cy="456" r="4.8" fill="#ffbd2e"/>
+<circle cx="107" cy="456" r="4.8" fill="#28c840"/>
+<text x="500.0" y="460" font-size="14" fill="#8b949e" font-weight="normal" text-anchor="middle">mrkjrcxcnd@github: ~/contributions —graph</text>
+<text x="120.0" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Sep</text>
+<g><title>2025-09-14: 0 contributions</title>
+<rect x="120.0" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-15: 0 contributions</title>
+<rect x="120.0" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-16: 0 contributions</title>
+<rect x="120.0" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-17: 0 contributions</title>
+<rect x="120.0" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-18: 0 contributions</title>
+<rect x="120.0" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-19: 0 contributions</title>
+<rect x="120.0" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-20: 0 contributions</title>
+<rect x="120.0" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-21: 0 contributions</title>
+<rect x="134.3" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-22: 0 contributions</title>
+<rect x="134.3" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-23: 0 contributions</title>
+<rect x="134.3" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-24: 0 contributions</title>
+<rect x="134.3" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-25: 0 contributions</title>
+<rect x="134.3" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-26: 8 contributions</title>
+<rect x="134.3" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-09-27: 14 contributions</title>
+<rect x="134.3" y="587.8" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-09-28: 6 contributions</title>
+<rect x="148.6" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-09-29: 0 contributions</title>
+<rect x="148.6" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-09-30: 0 contributions</title>
+<rect x="148.6" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-01: 2 contributions</title>
+<rect x="148.6" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-02: 8 contributions</title>
+<rect x="148.6" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-03: 1 contributions</title>
+<rect x="148.6" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-04: 1 contributions</title>
+<rect x="148.6" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<text x="162.9056603773585" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Oct</text>
+<g><title>2025-10-05: 15 contributions</title>
+<rect x="162.91" y="502.0" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-10-06: 5 contributions</title>
+<rect x="162.91" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-07: 4 contributions</title>
+<rect x="162.91" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-08: 0 contributions</title>
+<rect x="162.91" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-09: 0 contributions</title>
+<rect x="162.91" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-10: 0 contributions</title>
+<rect x="162.91" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-11: 9 contributions</title>
+<rect x="162.91" y="587.8" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-10-12: 0 contributions</title>
+<rect x="177.21" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-13: 0 contributions</title>
+<rect x="177.21" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-14: 2 contributions</title>
+<rect x="177.21" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-15: 0 contributions</title>
+<rect x="177.21" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-16: 0 contributions</title>
+<rect x="177.21" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-17: 0 contributions</title>
+<rect x="177.21" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-18: 0 contributions</title>
+<rect x="177.21" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-19: 0 contributions</title>
+<rect x="191.51" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-20: 0 contributions</title>
+<rect x="191.51" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-21: 0 contributions</title>
+<rect x="191.51" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-22: 10 contributions</title>
+<rect x="191.51" y="544.9" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-10-23: 6 contributions</title>
+<rect x="191.51" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-24: 18 contributions</title>
+<rect x="191.51" y="573.5" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2025-10-25: 10 contributions</title>
+<rect x="191.51" y="587.8" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-10-26: 0 contributions</title>
+<rect x="205.81" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-27: 3 contributions</title>
+<rect x="205.81" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-28: 6 contributions</title>
+<rect x="205.81" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-10-29: 13 contributions</title>
+<rect x="205.81" y="544.9" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-10-30: 0 contributions</title>
+<rect x="205.81" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-10-31: 0 contributions</title>
+<rect x="205.81" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-01: 0 contributions</title>
+<rect x="205.81" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="220.1132075471698" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Nov</text>
+<g><title>2025-11-02: 0 contributions</title>
+<rect x="220.11" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-03: 0 contributions</title>
+<rect x="220.11" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-04: 0 contributions</title>
+<rect x="220.11" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-05: 0 contributions</title>
+<rect x="220.11" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-06: 0 contributions</title>
+<rect x="220.11" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-07: 0 contributions</title>
+<rect x="220.11" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-08: 0 contributions</title>
+<rect x="220.11" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-09: 0 contributions</title>
+<rect x="234.42" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-10: 0 contributions</title>
+<rect x="234.42" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-11: 0 contributions</title>
+<rect x="234.42" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-12: 0 contributions</title>
+<rect x="234.42" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-13: 0 contributions</title>
+<rect x="234.42" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-14: 0 contributions</title>
+<rect x="234.42" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-15: 0 contributions</title>
+<rect x="234.42" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-16: 1 contributions</title>
+<rect x="248.72" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-11-17: 0 contributions</title>
+<rect x="248.72" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-18: 0 contributions</title>
+<rect x="248.72" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-19: 0 contributions</title>
+<rect x="248.72" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-20: 0 contributions</title>
+<rect x="248.72" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-21: 0 contributions</title>
+<rect x="248.72" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-22: 0 contributions</title>
+<rect x="248.72" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-23: 0 contributions</title>
+<rect x="263.02" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-24: 0 contributions</title>
+<rect x="263.02" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-25: 0 contributions</title>
+<rect x="263.02" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-26: 2 contributions</title>
+<rect x="263.02" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-11-27: 2 contributions</title>
+<rect x="263.02" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-11-28: 0 contributions</title>
+<rect x="263.02" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-29: 0 contributions</title>
+<rect x="263.02" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-11-30: 4 contributions</title>
+<rect x="277.32" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-01: 8 contributions</title>
+<rect x="277.32" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-02: 12 contributions</title>
+<rect x="277.32" y="530.6" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-12-03: 1 contributions</title>
+<rect x="277.32" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-04: 0 contributions</title>
+<rect x="277.32" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-05: 0 contributions</title>
+<rect x="277.32" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-06: 0 contributions</title>
+<rect x="277.32" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="291.62264150943395" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Dec</text>
+<g><title>2025-12-07: 0 contributions</title>
+<rect x="291.62" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-08: 0 contributions</title>
+<rect x="291.62" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-09: 4 contributions</title>
+<rect x="291.62" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-10: 0 contributions</title>
+<rect x="291.62" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-11: 0 contributions</title>
+<rect x="291.62" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-12: 0 contributions</title>
+<rect x="291.62" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-13: 0 contributions</title>
+<rect x="291.62" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-14: 0 contributions</title>
+<rect x="305.92" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-15: 0 contributions</title>
+<rect x="305.92" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-16: 5 contributions</title>
+<rect x="305.92" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-17: 0 contributions</title>
+<rect x="305.92" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-18: 0 contributions</title>
+<rect x="305.92" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2025-12-19: 2 contributions</title>
+<rect x="305.92" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-20: 24 contributions</title>
+<rect x="305.92" y="587.8" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2025-12-21: 10 contributions</title>
+<rect x="320.23" y="502.0" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-12-22: 10 contributions</title>
+<rect x="320.23" y="516.3" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-12-23: 4 contributions</title>
+<rect x="320.23" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-24: 30 contributions</title>
+<rect x="320.23" y="544.9" width="11.9" height="11.8" rx="3" fill="#39d353"/>
+</g>
+<g><title>2025-12-25: 4 contributions</title>
+<rect x="320.23" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-26: 29 contributions</title>
+<rect x="320.23" y="573.5" width="11.9" height="11.8" rx="3" fill="#39d353"/>
+</g>
+<g><title>2025-12-27: 38 contributions</title>
+<rect x="320.23" y="587.8" width="11.9" height="11.8" rx="3" fill="#69f0a0"/>
+</g>
+<g><title>2025-12-28: 2 contributions</title>
+<rect x="334.53" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-29: 14 contributions</title>
+<rect x="334.53" y="516.3" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2025-12-30: 2 contributions</title>
+<rect x="334.53" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2025-12-31: 0 contributions</title>
+<rect x="334.53" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-01: 4 contributions</title>
+<rect x="334.53" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-02: 10 contributions</title>
+<rect x="334.53" y="573.5" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-01-03: 0 contributions</title>
+<rect x="334.53" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="348.8301886792453" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Jan</text>
+<g><title>2026-01-04: 6 contributions</title>
+<rect x="348.83" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-05: 8 contributions</title>
+<rect x="348.83" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-06: 0 contributions</title>
+<rect x="348.83" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-07: 0 contributions</title>
+<rect x="348.83" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-08: 0 contributions</title>
+<rect x="348.83" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-09: 10 contributions</title>
+<rect x="348.83" y="573.5" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-01-10: 2 contributions</title>
+<rect x="348.83" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-11: 0 contributions</title>
+<rect x="363.13" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-12: 5 contributions</title>
+<rect x="363.13" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-13: 0 contributions</title>
+<rect x="363.13" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-14: 0 contributions</title>
+<rect x="363.13" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-15: 0 contributions</title>
+<rect x="363.13" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-16: 4 contributions</title>
+<rect x="363.13" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-17: 0 contributions</title>
+<rect x="363.13" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-18: 0 contributions</title>
+<rect x="377.43" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-19: 0 contributions</title>
+<rect x="377.43" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-20: 4 contributions</title>
+<rect x="377.43" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-21: 14 contributions</title>
+<rect x="377.43" y="544.9" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-01-22: 12 contributions</title>
+<rect x="377.43" y="559.2" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-01-23: 6 contributions</title>
+<rect x="377.43" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-01-24: 0 contributions</title>
+<rect x="377.43" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-25: 0 contributions</title>
+<rect x="391.74" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-26: 0 contributions</title>
+<rect x="391.74" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-27: 0 contributions</title>
+<rect x="391.74" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-28: 0 contributions</title>
+<rect x="391.74" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-29: 0 contributions</title>
+<rect x="391.74" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-30: 0 contributions</title>
+<rect x="391.74" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-01-31: 0 contributions</title>
+<rect x="391.74" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="406.0377358490566" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Feb</text>
+<g><title>2026-02-01: 0 contributions</title>
+<rect x="406.04" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-02: 0 contributions</title>
+<rect x="406.04" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-03: 0 contributions</title>
+<rect x="406.04" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-04: 0 contributions</title>
+<rect x="406.04" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-05: 0 contributions</title>
+<rect x="406.04" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-06: 0 contributions</title>
+<rect x="406.04" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-07: 0 contributions</title>
+<rect x="406.04" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-08: 0 contributions</title>
+<rect x="420.34" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-09: 0 contributions</title>
+<rect x="420.34" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-10: 0 contributions</title>
+<rect x="420.34" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-11: 0 contributions</title>
+<rect x="420.34" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-12: 0 contributions</title>
+<rect x="420.34" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-13: 2 contributions</title>
+<rect x="420.34" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-02-14: 0 contributions</title>
+<rect x="420.34" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-15: 0 contributions</title>
+<rect x="434.64" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-16: 0 contributions</title>
+<rect x="434.64" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-17: 0 contributions</title>
+<rect x="434.64" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-18: 2 contributions</title>
+<rect x="434.64" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-02-19: 0 contributions</title>
+<rect x="434.64" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-20: 0 contributions</title>
+<rect x="434.64" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-21: 0 contributions</title>
+<rect x="434.64" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-22: 0 contributions</title>
+<rect x="448.94" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-23: 0 contributions</title>
+<rect x="448.94" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-24: 0 contributions</title>
+<rect x="448.94" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-25: 11 contributions</title>
+<rect x="448.94" y="544.9" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-02-26: 5 contributions</title>
+<rect x="448.94" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-02-27: 0 contributions</title>
+<rect x="448.94" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-02-28: 3 contributions</title>
+<rect x="448.94" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<text x="463.2452830188679" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Mar</text>
+<g><title>2026-03-01: 4 contributions</title>
+<rect x="463.25" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-02: 40 contributions</title>
+<rect x="463.25" y="516.3" width="11.9" height="11.8" rx="3" fill="#69f0a0"/>
+</g>
+<g><title>2026-03-03: 4 contributions</title>
+<rect x="463.25" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-04: 2 contributions</title>
+<rect x="463.25" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-05: 9 contributions</title>
+<rect x="463.25" y="559.2" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-03-06: 7 contributions</title>
+<rect x="463.25" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-07: 0 contributions</title>
+<rect x="463.25" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-08: 0 contributions</title>
+<rect x="477.55" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-09: 0 contributions</title>
+<rect x="477.55" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-10: 0 contributions</title>
+<rect x="477.55" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-11: 30 contributions</title>
+<rect x="477.55" y="544.9" width="11.9" height="11.8" rx="3" fill="#39d353"/>
+</g>
+<g><title>2026-03-12: 16 contributions</title>
+<rect x="477.55" y="559.2" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-03-13: 0 contributions</title>
+<rect x="477.55" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-14: 10 contributions</title>
+<rect x="477.55" y="587.8" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-03-15: 16 contributions</title>
+<rect x="491.85" y="502.0" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-03-16: 6 contributions</title>
+<rect x="491.85" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-17: 8 contributions</title>
+<rect x="491.85" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-18: 1 contributions</title>
+<rect x="491.85" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-19: 8 contributions</title>
+<rect x="491.85" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-20: 3 contributions</title>
+<rect x="491.85" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-21: 0 contributions</title>
+<rect x="491.85" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-22: 0 contributions</title>
+<rect x="506.15" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-23: 6 contributions</title>
+<rect x="506.15" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-24: 17 contributions</title>
+<rect x="506.15" y="530.6" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2026-03-25: 19 contributions</title>
+<rect x="506.15" y="544.9" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2026-03-26: 0 contributions</title>
+<rect x="506.15" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-27: 0 contributions</title>
+<rect x="506.15" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-28: 0 contributions</title>
+<rect x="506.15" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-03-29: 3 contributions</title>
+<rect x="520.45" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-30: 2 contributions</title>
+<rect x="520.45" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-03-31: 13 contributions</title>
+<rect x="520.45" y="530.6" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-04-01: 6 contributions</title>
+<rect x="520.45" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-02: 0 contributions</title>
+<rect x="520.45" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-03: 0 contributions</title>
+<rect x="520.45" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-04: 2 contributions</title>
+<rect x="520.45" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<text x="534.7547169811321" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Apr</text>
+<g><title>2026-04-05: 4 contributions</title>
+<rect x="534.75" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-06: 8 contributions</title>
+<rect x="534.75" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-07: 6 contributions</title>
+<rect x="534.75" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-08: 7 contributions</title>
+<rect x="534.75" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-09: 0 contributions</title>
+<rect x="534.75" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-10: 19 contributions</title>
+<rect x="534.75" y="573.5" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2026-04-11: 13 contributions</title>
+<rect x="534.75" y="587.8" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-04-12: 10 contributions</title>
+<rect x="549.06" y="502.0" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-04-13: 9 contributions</title>
+<rect x="549.06" y="516.3" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-04-14: 6 contributions</title>
+<rect x="549.06" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-15: 5 contributions</title>
+<rect x="549.06" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-16: 0 contributions</title>
+<rect x="549.06" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-17: 0 contributions</title>
+<rect x="549.06" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-18: 2 contributions</title>
+<rect x="549.06" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-19: 2 contributions</title>
+<rect x="563.36" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-20: 6 contributions</title>
+<rect x="563.36" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-21: 10 contributions</title>
+<rect x="563.36" y="530.6" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-04-22: 4 contributions</title>
+<rect x="563.36" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-23: 0 contributions</title>
+<rect x="563.36" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-24: 0 contributions</title>
+<rect x="563.36" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-25: 0 contributions</title>
+<rect x="563.36" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-26: 0 contributions</title>
+<rect x="577.66" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-27: 0 contributions</title>
+<rect x="577.66" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-28: 2 contributions</title>
+<rect x="577.66" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-04-29: 0 contributions</title>
+<rect x="577.66" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-04-30: 0 contributions</title>
+<rect x="577.66" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-01: 0 contributions</title>
+<rect x="577.66" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-02: 0 contributions</title>
+<rect x="577.66" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="591.9622641509434" y="494" font-size="11" fill="#8b949e" font-weight="normal" >May</text>
+<g><title>2026-05-03: 2 contributions</title>
+<rect x="591.96" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-05-04: 0 contributions</title>
+<rect x="591.96" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-05: 0 contributions</title>
+<rect x="591.96" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-06: 0 contributions</title>
+<rect x="591.96" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-07: 0 contributions</title>
+<rect x="591.96" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-08: 13 contributions</title>
+<rect x="591.96" y="573.5" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-05-09: 0 contributions</title>
+<rect x="591.96" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-10: 0 contributions</title>
+<rect x="606.26" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-11: 0 contributions</title>
+<rect x="606.26" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-12: 0 contributions</title>
+<rect x="606.26" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-13: 8 contributions</title>
+<rect x="606.26" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-05-14: 0 contributions</title>
+<rect x="606.26" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-15: 0 contributions</title>
+<rect x="606.26" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-16: 2 contributions</title>
+<rect x="606.26" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-05-17: 0 contributions</title>
+<rect x="620.57" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-18: 0 contributions</title>
+<rect x="620.57" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-19: 6 contributions</title>
+<rect x="620.57" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-05-20: 7 contributions</title>
+<rect x="620.57" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-05-21: 0 contributions</title>
+<rect x="620.57" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-22: 0 contributions</title>
+<rect x="620.57" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-23: 0 contributions</title>
+<rect x="620.57" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-24: 0 contributions</title>
+<rect x="634.87" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-25: 0 contributions</title>
+<rect x="634.87" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-26: 0 contributions</title>
+<rect x="634.87" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-27: 0 contributions</title>
+<rect x="634.87" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-28: 0 contributions</title>
+<rect x="634.87" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-29: 0 contributions</title>
+<rect x="634.87" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-30: 0 contributions</title>
+<rect x="634.87" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-05-31: 0 contributions</title>
+<rect x="649.17" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-01: 0 contributions</title>
+<rect x="649.17" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-02: 27 contributions</title>
+<rect x="649.17" y="530.6" width="11.9" height="11.8" rx="3" fill="#39d353"/>
+</g>
+<g><title>2026-06-03: 17 contributions</title>
+<rect x="649.17" y="544.9" width="11.9" height="11.8" rx="3" fill="#26a641"/>
+</g>
+<g><title>2026-06-04: 0 contributions</title>
+<rect x="649.17" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-05: 3 contributions</title>
+<rect x="649.17" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-06: 0 contributions</title>
+<rect x="649.17" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="663.4716981132076" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Jun</text>
+<g><title>2026-06-07: 0 contributions</title>
+<rect x="663.47" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-08: 0 contributions</title>
+<rect x="663.47" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-09: 2 contributions</title>
+<rect x="663.47" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-10: 0 contributions</title>
+<rect x="663.47" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-11: 1 contributions</title>
+<rect x="663.47" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-12: 0 contributions</title>
+<rect x="663.47" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-13: 0 contributions</title>
+<rect x="663.47" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-14: 0 contributions</title>
+<rect x="677.77" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-15: 0 contributions</title>
+<rect x="677.77" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-16: 0 contributions</title>
+<rect x="677.77" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-17: 0 contributions</title>
+<rect x="677.77" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-18: 0 contributions</title>
+<rect x="677.77" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-19: 0 contributions</title>
+<rect x="677.77" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-20: 0 contributions</title>
+<rect x="677.77" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-21: 10 contributions</title>
+<rect x="692.08" y="502.0" width="11.9" height="11.8" rx="3" fill="#006d32"/>
+</g>
+<g><title>2026-06-22: 1 contributions</title>
+<rect x="692.08" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-23: 1 contributions</title>
+<rect x="692.08" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-24: 2 contributions</title>
+<rect x="692.08" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-25: 0 contributions</title>
+<rect x="692.08" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-26: 2 contributions</title>
+<rect x="692.08" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-06-27: 0 contributions</title>
+<rect x="692.08" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-28: 0 contributions</title>
+<rect x="706.38" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-29: 0 contributions</title>
+<rect x="706.38" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-06-30: 0 contributions</title>
+<rect x="706.38" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-01: 0 contributions</title>
+<rect x="706.38" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-02: 0 contributions</title>
+<rect x="706.38" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-03: 0 contributions</title>
+<rect x="706.38" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-04: 0 contributions</title>
+<rect x="706.38" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="720.6792452830189" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Jul</text>
+<g><title>2026-07-05: 0 contributions</title>
+<rect x="720.68" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-06: 0 contributions</title>
+<rect x="720.68" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-07: 0 contributions</title>
+<rect x="720.68" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-08: 0 contributions</title>
+<rect x="720.68" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-09: 0 contributions</title>
+<rect x="720.68" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-10: 0 contributions</title>
+<rect x="720.68" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-11: 0 contributions</title>
+<rect x="720.68" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-12: 0 contributions</title>
+<rect x="734.98" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-13: 0 contributions</title>
+<rect x="734.98" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-14: 0 contributions</title>
+<rect x="734.98" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-15: 0 contributions</title>
+<rect x="734.98" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-16: 0 contributions</title>
+<rect x="734.98" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-17: 0 contributions</title>
+<rect x="734.98" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-18: 0 contributions</title>
+<rect x="734.98" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-19: 0 contributions</title>
+<rect x="749.28" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-20: 0 contributions</title>
+<rect x="749.28" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-21: 0 contributions</title>
+<rect x="749.28" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-22: 0 contributions</title>
+<rect x="749.28" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-23: 0 contributions</title>
+<rect x="749.28" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-24: 0 contributions</title>
+<rect x="749.28" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-25: 0 contributions</title>
+<rect x="749.28" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-26: 0 contributions</title>
+<rect x="763.58" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-27: 0 contributions</title>
+<rect x="763.58" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-28: 0 contributions</title>
+<rect x="763.58" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-29: 0 contributions</title>
+<rect x="763.58" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-30: 0 contributions</title>
+<rect x="763.58" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-07-31: 0 contributions</title>
+<rect x="763.58" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-01: 0 contributions</title>
+<rect x="763.58" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="777.8867924528302" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Aug</text>
+<g><title>2026-08-02: 0 contributions</title>
+<rect x="777.89" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-03: 0 contributions</title>
+<rect x="777.89" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-04: 0 contributions</title>
+<rect x="777.89" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-05: 0 contributions</title>
+<rect x="777.89" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-06: 0 contributions</title>
+<rect x="777.89" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-07: 0 contributions</title>
+<rect x="777.89" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-08: 0 contributions</title>
+<rect x="777.89" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-09: 0 contributions</title>
+<rect x="792.19" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-10: 0 contributions</title>
+<rect x="792.19" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-11: 0 contributions</title>
+<rect x="792.19" y="530.6" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-12: 0 contributions</title>
+<rect x="792.19" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-13: 0 contributions</title>
+<rect x="792.19" y="559.2" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-14: 0 contributions</title>
+<rect x="792.19" y="573.5" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-15: 0 contributions</title>
+<rect x="792.19" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-16: 0 contributions</title>
+<rect x="806.49" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-17: 1 contributions</title>
+<rect x="806.49" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-18: 1 contributions</title>
+<rect x="806.49" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-19: 0 contributions</title>
+<rect x="806.49" y="544.9" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-20: 1 contributions</title>
+<rect x="806.49" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-21: 1 contributions</title>
+<rect x="806.49" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-22: 0 contributions</title>
+<rect x="806.49" y="587.8" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-23: 0 contributions</title>
+<rect x="820.79" y="502.0" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<g><title>2026-08-24: 1 contributions</title>
+<rect x="820.79" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-25: 1 contributions</title>
+<rect x="820.79" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-26: 1 contributions</title>
+<rect x="820.79" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-27: 1 contributions</title>
+<rect x="820.79" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-28: 1 contributions</title>
+<rect x="820.79" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-29: 1 contributions</title>
+<rect x="820.79" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-30: 1 contributions</title>
+<rect x="835.09" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-08-31: 7 contributions</title>
+<rect x="835.09" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-01: 6 contributions</title>
+<rect x="835.09" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-02: 1 contributions</title>
+<rect x="835.09" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-03: 1 contributions</title>
+<rect x="835.09" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-04: 1 contributions</title>
+<rect x="835.09" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-05: 2 contributions</title>
+<rect x="835.09" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<text x="849.3962264150944" y="494" font-size="11" fill="#8b949e" font-weight="normal" >Sep</text>
+<g><title>2026-09-06: 8 contributions</title>
+<rect x="849.4" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-07: 1 contributions</title>
+<rect x="849.4" y="516.3" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-08: 1 contributions</title>
+<rect x="849.4" y="530.6" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-09: 1 contributions</title>
+<rect x="849.4" y="544.9" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-10: 1 contributions</title>
+<rect x="849.4" y="559.2" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-11: 2 contributions</title>
+<rect x="849.4" y="573.5" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-12: 1 contributions</title>
+<rect x="849.4" y="587.8" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-13: 1 contributions</title>
+<rect x="863.7" y="502.0" width="11.9" height="11.8" rx="3" fill="#0e4429"/>
+</g>
+<g><title>2026-09-14: 0 contributions</title>
+<rect x="863.7" y="516.3" width="11.9" height="11.8" rx="3" fill="#161b22"/>
+</g>
+<text x="83" y="525.3" font-size="10" fill="#8b949e" font-weight="normal" >Mon</text>
+<text x="83" y="553.9" font-size="10" fill="#8b949e" font-weight="normal" >Wed</text>
+<text x="83" y="582.5" font-size="10" fill="#8b949e" font-weight="normal" >Fri</text>
+<text x="716" y="618" font-size="11" fill="#8b949e" font-weight="normal" >Less</text>
+<rect x="754" y="609" width="11" height="11" rx="3" fill="#161b22"/>
+<rect x="768" y="609" width="11" height="11" rx="3" fill="#0e4429"/>
+<rect x="782" y="609" width="11" height="11" rx="3" fill="#006d32"/>
+<rect x="796" y="609" width="11" height="11" rx="3" fill="#26a641"/>
+<rect x="810" y="609" width="11" height="11" rx="3" fill="#39d353"/>
+<rect x="824" y="609" width="11" height="11" rx="3" fill="#69f0a0"/>
+<text x="848" y="618" font-size="11" fill="#8b949e" font-weight="normal" >More</text>
+<path d="M58 638H902" stroke="#262d35"/>
+<text x="84" y="667" font-size="15" fill="#39d353" font-weight="bold" >951</text>
+<text x="122" y="667" font-size="15" fill="#8b949e" font-weight="normal" >contributions in the last year</text>
+<text x="876" y="667" font-size="14" fill="#8b949e" font-weight="normal" text-anchor="end">Sep 14, 2025 → Sep 14, 2026</text>
+<text x="84" y="696" font-size="15" fill="#8b949e" font-weight="normal" >current streak</text>
+<text x="226" y="696" font-size="15" fill="#009100" font-weight="bold" >21 days</text>
+<text x="303" y="696" font-size="15" fill="#8b949e" font-weight="normal" >· longest</text>
+<text x="393" y="696" font-size="15" fill="#009100" font-weight="bold" >21 days</text>
+<text x="876" y="696" font-size="14" fill="#8b949e" font-weight="normal" text-anchor="end">best day 40 on Mar 2, 2026</text>
+<text x="76" y="795" font-size="14" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="808" lengthAdjust="spacingAndGlyphs">░▒    ▓█    ░▒▓█░▒▓█    ░▒    ▓█    ░▒▓█░▒▓█    ░▒▓█░▒▓█     ░▒▓█░▒     ▓█    ░▒     ▓█░▒▓█     ░▒    ▓█    ░▒▓█░▒▓ </text>
+<text x="76" y="809" font-size="14" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="808" lengthAdjust="spacingAndGlyphs">█░▒▓█░▒▓    █░    ▒▓    █░  ▒▓█        ░▒       ▓█    ░▒    ▓█    ░▒     ▓█░▒▓█     ░▒    ▓█    ░▒▓   █░    ▒▓    █░</text>
+<text x="76" y="823" font-size="14" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="808" lengthAdjust="spacingAndGlyphs">▒▓ █░ ▒▓    █░▒▓█░▒▓    █░▒▓█░         ▒▓       █░▒▓█░▒▓    █░             ▒▓       █░          ▒▓█░  ▒▓    █░    ▒▓</text>
+<text x="76" y="837" font-size="14" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="808" lengthAdjust="spacingAndGlyphs">█░    ▒▓    █░  ▒▓█░    ▒▓  █░▒▓    █░  ▒▓      █░  ▒▓█░    ▒▓    █░     ▒▓█░▒▓     █░    ▒▓    █░ ▒▓ █░    ▒▓    █░</text>
+<text x="76" y="851" font-size="14" fill="#008e00" font-weight="normal" xml:space="preserve" textLength="808" lengthAdjust="spacingAndGlyphs">▒▓    █░    ▒▓    █░    ▒▓    █░     ▒▓█░       ▒▓    █░     ▒▓█░▒▓     █░    ▒▓     █░▒▓█░     ▒▓   █░▒    ▓█░▒▓█░ </text>
+<rect x="58" y="911" width="835" height="144" rx="0" fill="#0d1117" stroke="#262d35"/>
+<text x="86" y="950" font-size="13" fill="#8b949e" font-weight="normal" letter-spacing="2">[ GITHUB METRICS ]</text>
+<text x="86" y="1001" font-size="34" fill="#008f51" font-weight="normal" >4</text>
+<text x="86" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">STARS</text>
+<text x="216" y="1001" font-size="34" fill="#008f51" font-weight="normal" >10</text>
+<text x="216" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">REPOS</text>
+<text x="346" y="1001" font-size="34" fill="#008f51" font-weight="normal" >3</text>
+<text x="346" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">FOLLOWERS</text>
+<text x="476" y="1001" font-size="34" fill="#008f51" font-weight="normal" >2</text>
+<text x="476" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">FOLLOWING</text>
+<text x="606" y="1001" font-size="34" fill="#008f51" font-weight="normal" >8</text>
+<text x="606" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">FORKS</text>
+<text x="736" y="1001" font-size="34" fill="#008f51" font-weight="normal" >0</text>
+<text x="736" y="1021" font-size="12" fill="#8b949e" font-weight="normal" letter-spacing="2">GISTS</text>
+<rect x="68" y="1102" width="825" height="62" rx="10" fill="#10161c" stroke="#262d35"/>
+<defs><clipPath id="tools"><rect x="68" y="1102" width="825" height="62" rx="10"/></clipPath></defs>
+<g clip-path="url(#tools)"><g class="ticker">
+<rect x="58" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="70" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Figma</text>
+<rect x="130.0" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="142.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Postman</text>
+<rect x="216.4" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="228.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >VS Code</text>
+<rect x="302.8" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="314.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >cloudflare</text>
+<rect x="410.8" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="422.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >npm</text>
+<rect x="468.4" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="480.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >blender</text>
+<rect x="554.8" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="566.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >notion</text>
+<rect x="634.0" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="646.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >React</text>
+<rect x="706.0" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="718.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >TypeScript</text>
+<rect x="814.0" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="826.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >JavaScript</text>
+<rect x="922.0" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="934.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >HTML</text>
+<rect x="986.8" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="998.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >CSS</text>
+<rect x="1044.4" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1056.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Node.js</text>
+<rect x="1130.8" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1142.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Python</text>
+<rect x="1210.0" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1222.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >git</text>
+<rect x="1267.6" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1279.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >docker</text>
+<rect x="1346.8" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1358.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >linux</text>
+<rect x="1418.8" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1430.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >java</text>
+<rect x="1483.6" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1495.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >kotlin</text>
+<rect x="1562.8" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1574.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Next.js</text>
+<rect x="1649.2" y="1118" width="81.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1661.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >tailwind</text>
+<rect x="1742.8" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1754.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >vite</text>
+<rect x="1807.6" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1819.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >fastapi</text>
+<rect x="1894.0" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="1906.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >PostgreSQL</text>
+<rect x="2002.0" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2014.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >mysql</text>
+<rect x="2074.0" y="1118" width="81.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2086.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >supabase</text>
+<rect x="2167.6" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2179.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >prisma</text>
+<rect x="2246.8" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2258.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >sqlite</text>
+<rect x="2326.0" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2338.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >github</text>
+<rect x="2405.2" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2417.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >vercel</text>
+<rect x="2484.4" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2496.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Figma</text>
+<rect x="2556.4" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2568.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Postman</text>
+<rect x="2642.8" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2654.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >VS Code</text>
+<rect x="2729.2" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2741.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >cloudflare</text>
+<rect x="2837.2" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2849.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >npm</text>
+<rect x="2894.8" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2906.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >blender</text>
+<rect x="2981.2" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="2993.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >notion</text>
+<rect x="3060.4" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3072.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >React</text>
+<rect x="3132.4" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3144.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >TypeScript</text>
+<rect x="3240.4" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3252.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >JavaScript</text>
+<rect x="3348.4" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3360.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >HTML</text>
+<rect x="3413.2" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3425.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >CSS</text>
+<rect x="3470.8" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3482.8" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Node.js</text>
+<rect x="3557.2" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3569.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Python</text>
+<rect x="3636.4" y="1118" width="45.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3648.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >git</text>
+<rect x="3694.0" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3706.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >docker</text>
+<rect x="3773.2" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3785.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >linux</text>
+<rect x="3845.2" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3857.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >java</text>
+<rect x="3910.0" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="3922.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >kotlin</text>
+<rect x="3989.2" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4001.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >Next.js</text>
+<rect x="4075.6" y="1118" width="81.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4087.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >tailwind</text>
+<rect x="4169.2" y="1118" width="52.8" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4181.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >vite</text>
+<rect x="4234.0" y="1118" width="74.4" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4246.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >fastapi</text>
+<rect x="4320.4" y="1118" width="96.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4332.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >PostgreSQL</text>
+<rect x="4428.4" y="1118" width="60.0" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4440.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >mysql</text>
+<rect x="4500.4" y="1118" width="81.6" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4512.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >supabase</text>
+<rect x="4594.0" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4606.0" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >prisma</text>
+<rect x="4673.2" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4685.2" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >sqlite</text>
+<rect x="4752.4" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4764.4" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >github</text>
+<rect x="4831.6" y="1118" width="67.2" height="30" rx="15" fill="#0c241e" stroke="#005c3b"/>
+<text x="4843.6" y="1138" font-size="12" fill="#d5e9e4" font-weight="normal" >vercel</text>
+</g></g>
+</svg>
