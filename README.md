@@ -5,7 +5,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.mrkjrcxcnd.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kramikkk/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@kramik-code">YouTube</a>
+  <a href="https://www.mrkjrcxcnd.com" aria-label="Portfolio">
+    <img src="https://www.mrkjrcxcnd.com/icon.svg" width="72" height="22" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mrkjrcxcnd/" aria-label="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
 </p>
