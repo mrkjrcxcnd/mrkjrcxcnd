@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.mrkjrcxcnd.com" aria-label="Portfolio">
-    <img src="https://www.mrkjrcxcnd.com/icon.svg" width="72" height="22" alt="Portfolio" />
+    <img src="https://www.mrkjrcxcnd.com/icon.svg" width="32" height="32" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mrkjrcxcnd/" aria-label="LinkedIn">
